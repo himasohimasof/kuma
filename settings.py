@@ -127,6 +127,7 @@ MDN_LANGUAGES = (
     'ka',
     'ko',
     'ln',
+    'mg',
     'ml',
     'ms',
     'my',
